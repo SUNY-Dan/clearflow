@@ -1,9 +1,0 @@
-# Site Settings
-locale                   : “en-US”
-title                    : “Clearflow”
-title_separator          : “-”
-name                     : &name “Clearflow”
-description              : &description “personal description”
-url                      : https://clearflow.github.io # the base hostname & protocol for your site e.g. “https://mmistakes.github.io”
-baseurl                  : “” # the subpath of your site, e.g. “/blog”
-repository               : “SUNY-Dan/clearflow.github.io”
